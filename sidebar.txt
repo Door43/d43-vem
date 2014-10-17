@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vem:home|Door43 (vem)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vem|d43-vem repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vem/archive/master.zip|d43-vem.zip]]
+
+**Recent Changes**
+{{changes>ns = vem}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vem|Ethnologue data]]
+
